@@ -1,0 +1,3 @@
+openpyxl==3.0.9
+proknow==0.17.1
+tqdm==4.62.3
